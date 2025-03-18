@@ -48,5 +48,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-For questions or feedback, reach out to [your email or Discord username].
+For questions or feedback, reach out to me on discord, user:bushwack21.
  
