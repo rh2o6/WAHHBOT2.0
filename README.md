@@ -2,7 +2,7 @@
 
 ## About the Project
 
-WAHHBOT2.0 is a Discord bot designed to enhance server interactions by providing custom commands, moderation tools, and entertainment features. Built using Python, it leverages the Discord API to deliver a seamless user experience.
+WAHHBOT2.0 is a Discord bot designed to enhance server interactions by providing custom commands, moderation tools, and entertainment features. Built using Python, it leverages the Discord API to deliver a seamless user experience. This is a revamp/refactor of a project I did last year
 
 ## Features
 
